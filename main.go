@@ -7,7 +7,7 @@ import (
 	"path/filepath"
 )
 
-var kratosUrl = "http://kratos-admin.dev.ukama.com"
+var kratosUrl = "http://kratos-admin"
 
 func main() {
 
