@@ -13,7 +13,7 @@ func main() {
 
 	if len(os.Args) != 2 {
 		fmt.Println("Use 'kratos-id-cleanup some@example.com' or with wildcard 'kratos-id-cleanup *@example.com'")
-		fmt.Println("Set KRATOS_URL env ver to override default: http://kratos-admin.dev.ukama.com")
+		fmt.Println("Set KRATOS_URL env ver to override default: http://kratos-admin")
 		return
 	}
 
